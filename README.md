@@ -20,8 +20,12 @@ The project was developed during the course with the main objective of teaching 
 
 ### Running the project:
 
-- Go to **website** directory `cd website`
-- Run `npm start`
+```
+$ git clone git@github.com:paulahage/Menu.git
+$ cd website
+$ npm install
+$ npm start
+```
 - You can check the project at http://localhost:3000/
 
 <br/>
